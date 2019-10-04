@@ -1,0 +1,1 @@
+git+https://github.com/lounis/python-test.git@0.0.1#egg=pyfatal_organization&subdirectory=src/Organization
